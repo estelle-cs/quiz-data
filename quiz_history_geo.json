@@ -3,7 +3,7 @@
     { 
       "id": 1, 
       "label": "Quelle est la capitale de l'Australie ?", 
-      "image_url": "https://example.com/australie.jpg",
+      "image_url": "https://www.carnetsderoutes.fr/wp-content/uploads/2017/11/sydney-australie.jpg",
       "question_type": "single_choice",
       "correct_answer_id": 3,
       "answers": [
