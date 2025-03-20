@@ -1,0 +1,74 @@
+{
+  "questions": [
+    { 
+      "id": 1, 
+      "label": "Quelle est la capitale de l'Australie ?", 
+      "image_url": "https://example.com/australie.jpg",
+      "question_type": "single_choice",
+      "correct_answer_id": 3,
+      "answers": [
+        {"id": 1, "label": "Sydney"},
+        {"id": 2, "label": "Melbourne"},
+        {"id": 3, "label": "Canberra"},
+        {"id": 4, "label": "Brisbane"}
+      ],
+      "explanation": "Contrairement à une idée reçue, la capitale de l'Australie est Canberra, et non Sydney ou Melbourne."
+    },
+    { 
+      "id": 2, 
+      "label": "En quelle année a eu lieu la Révolution française ?", 
+      "image_url": "https://example.com/revolution_francaise.jpg",
+      "question_type": "single_choice",
+      "correct_answer_id": 2,
+      "answers": [
+        {"id": 1, "label": "1776"},
+        {"id": 2, "label": "1789"},
+        {"id": 3, "label": "1815"},
+        {"id": 4, "label": "1848"}
+      ],
+      "explanation": "La Révolution française a commencé en 1789, marquant la fin de l'Ancien Régime."
+    },
+    { 
+      "id": 3, 
+      "label": "Quel est le plus grand désert du monde ?", 
+      "image_url": "https://example.com/desert.jpg",
+      "question_type": "single_choice",
+      "correct_answer_id": 4,
+      "answers": [
+        {"id": 1, "label": "Le désert du Sahara"},
+        {"id": 2, "label": "Le désert de Gobi"},
+        {"id": 3, "label": "Le désert du Kalahari"},
+        {"id": 4, "label": "L'Antarctique"}
+      ],
+      "explanation": "L'Antarctique est techniquement le plus grand désert du monde, car il reçoit très peu de précipitations."
+    },
+    { 
+      "id": 4, 
+      "label": "Qui était le premier empereur de France ?", 
+      "image_url": "https://example.com/napoleon.jpg",
+      "question_type": "single_choice",
+      "correct_answer_id": 1,
+      "answers": [
+        {"id": 1, "label": "Napoléon Bonaparte"},
+        {"id": 2, "label": "Louis XIV"},
+        {"id": 3, "label": "Charlemagne"},
+        {"id": 4, "label": "Henri IV"}
+      ],
+      "explanation": "Napoléon Bonaparte est devenu le premier empereur de France en 1804."
+    },
+    { 
+      "id": 5, 
+      "label": "Quelle est la plus longue rivière du monde ?", 
+      "image_url": "https://example.com/fleuve.jpg",
+      "question_type": "single_choice",
+      "correct_answer_id": 3,
+      "answers": [
+        {"id": 1, "label": "Le Mississippi"},
+        {"id": 2, "label": "Le Yangtsé"},
+        {"id": 3, "label": "Le Nil"},
+        {"id": 4, "label": "L'Amazone"}
+      ],
+      "explanation": "Le Nil est généralement considéré comme le plus long fleuve du monde, avec environ 6 650 km de longueur."
+    }
+  ]
+}
